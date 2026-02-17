@@ -17,7 +17,7 @@ project:
 # Embedded Diagram Preview
 # -------------------------------------
 diagram:
-  image: "docs/workflow_architecture.png"
+  iimg: "<img src='n8n.png' />"
   note: "Exported screenshot of n8n workflow"
 
 # -------------------------------------
